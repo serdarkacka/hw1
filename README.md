@@ -4,5 +4,7 @@
 [![Test Coverage](https://codeclimate.com/github/serdarkacka/hw1/badges/coverage.svg)](https://codeclimate.com/github/serdarkacka/hw1/coverage)
 [![Issue Count](https://codeclimate.com/github/serdarkacka/hw1/badges/issue_count.svg)](https://codeclimate.com/github/serdarkacka/hw1)
 
-A test app with continuous integration, static analysis
+A test app with continuous integration, static analysis, automatic deployment
+
+Demo site: https://infinite-eyrie-39602.herokuapp.com/compute
 
