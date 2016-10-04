@@ -3,6 +3,3 @@ python:
   - "2.7"
 script: make test
 
-addons:
-    code_climate:
-        repo_token: 608d6e5eb5ce5acc0d46458c294cac01808b405e5deea467c9bffe7d7e5dbdea
